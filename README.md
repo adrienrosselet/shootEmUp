@@ -1,5 +1,5 @@
 # Introduction
-This is a javascript game. I used the Benjamin Code quick start project to have hot reloading. Use the arrows to drive and space to shoot.
+This is a javascript game. I used the Benjamin Code quick start (https://github.com/bdebon/quick-parcel-project) project to have hot reloading. Use the arrows to drive and space to shoot.
 
 # Installation
 ``` 
