@@ -1,5 +1,5 @@
 # Introduction
-This is a space invader web game experiment. I used the Benajin Code quick start project to have hot reloading.
+This is a javascript game. I used the Benajin Code quick start project to have hot reloading. Use the arrows to drive and space to shoot.
 
 # Installation
 ``` 
